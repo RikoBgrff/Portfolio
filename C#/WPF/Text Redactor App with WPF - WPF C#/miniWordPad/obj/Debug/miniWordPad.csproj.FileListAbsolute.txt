@@ -1,0 +1,17 @@
+D:\Desktop\miniWordPad-master\miniWordPad\bin\Debug\miniWordPad.exe.config
+D:\Desktop\miniWordPad-master\miniWordPad\bin\Debug\miniWordPad.exe
+D:\Desktop\miniWordPad-master\miniWordPad\bin\Debug\miniWordPad.pdb
+D:\Desktop\miniWordPad-master\miniWordPad\obj\Debug\miniWordPad.csproj.AssemblyReference.cache
+D:\Desktop\miniWordPad-master\miniWordPad\obj\Debug\miniWordPad.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\miniWordPad-master\miniWordPad\obj\Debug\MainWindow.g.cs
+D:\Desktop\miniWordPad-master\miniWordPad\obj\Debug\App.g.cs
+D:\Desktop\miniWordPad-master\miniWordPad\obj\Debug\miniWordPad_MarkupCompile.cache
+D:\Desktop\miniWordPad-master\miniWordPad\obj\Debug\miniWordPad_MarkupCompile.lref
+D:\Desktop\miniWordPad-master\miniWordPad\obj\Debug\App.baml
+D:\Desktop\miniWordPad-master\miniWordPad\obj\Debug\MainWindow.baml
+D:\Desktop\miniWordPad-master\miniWordPad\obj\Debug\miniWordPad.g.resources
+D:\Desktop\miniWordPad-master\miniWordPad\obj\Debug\miniWordPad.Properties.Resources.resources
+D:\Desktop\miniWordPad-master\miniWordPad\obj\Debug\miniWordPad.csproj.GenerateResource.cache
+D:\Desktop\miniWordPad-master\miniWordPad\obj\Debug\miniWordPad.csproj.CoreCompileInputs.cache
+D:\Desktop\miniWordPad-master\miniWordPad\obj\Debug\miniWordPad.exe
+D:\Desktop\miniWordPad-master\miniWordPad\obj\Debug\miniWordPad.pdb
