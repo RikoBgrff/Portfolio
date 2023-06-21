@@ -1,0 +1,55 @@
+{
+  "title": "Ümumi Biliklər testi",
+  "quiz": [
+    {
+      "question": "Çempionlar liqasını 5 dəfə qaldıran klub?",
+      "answers": ["Benfika", "Milan", "Barselona", "Liverpul", "M. Yunayted"],
+      "true": 1
+    },
+    {
+      "question": "Hansı heyvanın qırılan sümüyü qaynamır?",
+      "answers": ["Pişik", "Meymun", "Dələ", "At", "Zürafə"],
+      "true": 3
+    },
+    {
+      "question": "İnsandan başqa digər hansı canlı zövq üçün cinsi əlaqədə olur?",
+      "answers": ["Delfin", "Timsah", "Ayı", "Meymun", "İt"],
+      "true": 0
+    },
+    {
+      "question": "4 ədəd dizi olan yeganə heyvan hansıdır?",
+      "answers": ["Fil", "Ayı", "Dələ", "Ceyran", "Zürafə"],
+      "true": 0
+    },
+    {
+      "question": "Hansı canlının qanı bəyazdır?",
+      "answers": ["Hörümçək", "İlbiz", "Kəpənək", "Maral", "Çəyirtgə"],
+      "true": 4
+    },
+    {
+      "question": "1950-ci ildə dünya kuboku hansı ölkədə keçirilib?",
+      "answers": ["Kanada", "Fransa", "Brazilya", "İngiltərə", "İtalya"],
+      "true": 2
+    },
+    {
+      "question": "Hansı ölkədə ad günlərində hədiyə qəbul etmək yerinə hədiyə vermək adətdir?",
+      "answers": ["Tayland", "Vyetnam", "Brazilya", "Ərəbistan", "Peru"],
+      "true": 0
+    },
+    {
+      "question": "Hansı heyvanın gözləri 4 ayaqlarınıda görəbiləcək şəkildədir?",
+      "answers": ["Zürafə", "Ayı", "Balıq", "Ceyran", "Eşşək"],
+      "true": 3
+    },
+    {
+      "question": "Hansı ölkədə heç tualet yoxdur?",
+      "answers": ["Peru", "Kuba", "Türkiyə", "Kanada", "İran"],
+      "true": 0
+    },
+    {
+      "question": "Bütün iqlimlərin yaşandığı yeganə ölkə?",
+      "answers": ["ABŞ", "Kanada", "Yeni Zellandiya", "Brazilya", "Nigerya"],
+      "true": 0
+    }
+  ]
+}
